@@ -1,4 +1,4 @@
-# PersonalPortfolio2_ViewControllers
+# View Controllers in VR
 
 This project was made for the 2nd Quartile iteration of the CMGT course Personal Portfolio in Year 2 of the study. This time around, I focused on making a VR game, inspired by Horseshoes, Hotdogs and Handgrenades to learn how different view/movement mechanics and types influence the user (motion sickness). This project also allowed me to create a working gun system that is very fun to use and taught me how to use grab interactables and how the XR Toolkit for Unity works in general.
 
